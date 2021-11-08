@@ -1,0 +1,21 @@
+{
+  "name": "com.goodcat.fsm",
+  "author": "GoodCat",
+  "displayName": "FSM",
+  "description": "A lightweight user-friendly finite state machine to easily implement both simple and complex behaviors. Supports hierarchical states, custom and conditional transitions.",
+  "unity": "2020.3",
+  "version": "2021.11.8",
+  "keywords": [
+    "fsm",
+    "finite",
+    "state",
+    "machine",
+    "behavior",
+    "hierarchical",
+    "transition"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoodCatGames/FSM.git"
+  }
+}

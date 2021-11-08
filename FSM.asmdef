@@ -1,0 +1,16 @@
+{
+    "name": "GoodCat.FSM",
+    "rootNamespace": "GoodCat.Fsm",
+    "references": [
+        "GUID:4e0f3078ce0d9114eb660dde3a8878ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
